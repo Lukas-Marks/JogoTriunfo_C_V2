@@ -1,6 +1,6 @@
 # 🃏 Super Trunfo - Países: Comparação de Cartas
 
-Bem-vindo ao projeto **Super Trunfo**, um sistema desenvolvido em linguagem C para comparar cartas de cidades com base em atributos como população, área, PIB e pontos turísticos. Este projeto foi criado como parte de um desafio acadêmico dividido em três níveis de complexidade: **Novato**, **Aventureiro** e **Mestre**.
+Bem-vindo ao meu projeto **Super Trunfo**, um sistema desenvolvido em linguagem C para comparar cartas de cidades com base em atributos como população, área, PIB e pontos turísticos. Este projeto foi criado como parte de um desafio acadêmico dividido em três níveis de complexidade: **Novato**, **Aventureiro** e **Mestre**.
 
 > ⚠️ Este repositório contém a **versão 2**, a mais completa.  
 > A **versão 1** está disponível separadamente no meu GitHub como base inicial.
