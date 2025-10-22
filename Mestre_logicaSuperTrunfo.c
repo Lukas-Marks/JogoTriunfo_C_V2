@@ -11,7 +11,7 @@ int main() {
 int pEscolha;
 int sEscolha;
 
-// Cartas 01
+// Cartas - 01 
 char estado[30];
 char codCarta[3];
 char nomeCidade[30];
