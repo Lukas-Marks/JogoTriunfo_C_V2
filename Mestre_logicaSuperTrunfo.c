@@ -6,7 +6,7 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-  // Área para definição das variáveis para armazenar as propriedades das cidades
+  // Área para definição das variáveis para armazenar as propriedades das varias cidades
 
 int pEscolha;
 int sEscolha;
