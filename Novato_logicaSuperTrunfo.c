@@ -6,7 +6,7 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-  // Área para definição das variáveis para armazenar as propriedades das cidade
+  // Área para definição das variáveis para armazenar as propriedades das cidades
 
 // Cartas 1
 char estado[30];
